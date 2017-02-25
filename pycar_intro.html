@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>PyCAR - NICAR 2016 in Denver</title>
+		<title>PyCAR - NICAR 2017 in Jacksonville, Fla.</title>
 
 		<meta name="description" content="Learning to code to improve our reporting">
 		<meta name="author" content="Tom Meagher">
@@ -42,18 +42,20 @@
 			<div class="slides">
 				<section>
 					<h1>PyCAR</h1>
-					<h3>March 10, 2016 - NICAR, Denver</h3>
+					<h3>March 2-3, 2017 - NICAR, Jacksonville</h3>
 					<h3></h3>
 					<p>
-						<small>By:<br /> 
-						<a href="http://www.tommeagher.com/">Tom Meagher</a> / <a href="http://twitter.com/ultracasual">@ultracasual</a>,<br />
-						Alex Richards / <a href="http://twitter.com/alexrichards">@alexrichards</a>,<br />
-						<a href="http://ada.homolova.sk">Adriana Homolova</a> / <a href="http://www.twitter.com/naberacka">@naberacka</a>,<br />
-						<a href="http://cathydeng.github.io/ ">Cathy Deng</a> / <a href="http://twitter.com/cthydng">@cthydng</a>,<br />
-						Scott Bradley / <a href="http://twitter.com/scott2b">@scott2b</a></small>
+						<small><a href="http://www.tommeagher.com/">Tom Meagher</a> / <a href="http://twitter.com/ultracasual">@ultracasual</a><br />
+						Chris Keller / <a href="http://twitter.com/chrislkeller">@chrislkeller</a><br />
+						<a href="http://heatherjaybillings.com/">Heather Billings</a> / <a href="http://twitter.com/hbillings">@hbillings</a><br />
+						Eric Sagara / <a href="http://twitter.com/esagara">@esagara</a><br />
+						<a href="http://ada.homolova.sk">Adriana Homolova</a> / <a href="http://www.twitter.com/naberacka">@naberacka</a><br />
+						<a href="http://robertorocha.info/">Roberto Rocha</a> / <a href="http://twitter.com/robroc">@robroc</a><br />
+						Elaine Wong / <a href="http://twitter.com/elthenerd">@elthenerd</a><br />
+						Jacob Sanders / <a href="http://twitter.com/thejqs">@thejqs</a></small>
 					</p>
 					<p>&nbsp;</p>
-					<h3><a href="http://bit.ly/pycar16">bit.ly/pycar16</a></h3>
+					<h3><a href="http://bit.ly/pycar16">bit.ly/pycar17</a></h3>
 				</section>
 
 				<section>
@@ -114,21 +116,21 @@
 
 				<section>
 					<h2>Prep your workspace</h2>
-					To <a href="https://github.com/ireapps/pycar/tree/master/takehome#get-your-machine-ready">set up your machine</a>, you'll need to have Python 2.7, <a href="https://pypi.python.org/pypi/pip">pip</a> and <a href="https://virtualenv.pypa.io/en/latest/">virtualenv</a> installed.
+					To <a href="https://github.com/ireapps/pycar/tree/master/takehome#get-your-machine-ready">set up your machine</a>, you'll need to have Python 3, <a href="https://pypi.python.org/pypi/pip">pip</a>, <a href="https://virtualenv.pypa.io/en/latest/">virtualenv</a> and <a href="https://virtualenvwrapper.readthedocs.io/en/latest/">virtualenvwrapper</a> installed.
 
 						<pre><code data-trim contenteditable>
 #create and activate a sandbox to work in
-virtualenv pycar16    
-source pycar16/bin/activate
+mkvirtualenv pycar17
 
 #clone or download the code repo from Github
 git clone git@github.com:ireapps/pycar.git
 
-#install the dependencies: requests, beautifulsoup4, unicodecsv
-pip install -r requirements.txt
+#install the dependencies: 
+#jupyter, requests, beautifulsoup4, lxml, pandas
+pip3 install -r requirements.txt
 
-#launch the interactive interpreter
-ipython
+#launch the interactive Jupyter notebook in your browser
+jupyter notebook
 					</code></pre>
 				</section>
 
@@ -136,13 +138,13 @@ ipython
 					<h2>Strings</h2>
 					<p>Strings are ordered sequences of characters wrapped in quotes.<br /><br /></p>
 					<pre><code>
-var1 = "This class is at NICAR in Denver."
+var1 = "This class is at NICAR in Jacksonville."
 var2 = "&You!_123 Four"
 
 </code></pre>
 
 					<p><br /></p>
-					<small>Follow along at home <a href="https://github.com/ireapps/pycar/blob/master/basics/basics.py">here</a>.<br /><small>If you want to cheat, the answers are <a href="https://github.com/ireapps/pycar/blob/master/completed/basics_complete.py">here</a>.</small></small>
+					<small>Follow along at home <a href="https://github.com/ireapps/pycar/blob/master/basics/basics_notebook.ipynb">here</a>.<br /><small>If you want to cheat, the answers are <a href="https://github.com/ireapps/pycar/blob/master/completed/basics_complete_notebook.ipynb">here</a>.</small></small>
 				</section>
 
 				<section>
@@ -159,7 +161,7 @@ var2 = "&You!_123 Four"
 					An ordered collection of objects, wrapped in brackets. 
 
 					<pre><code>
-my_list = [1, 2, "Mile High City"]
+my_list = [1, 2, "Jax"]
 
 </code></pre>
 
@@ -216,7 +218,7 @@ else:
 					</p>
 					<br />
 					<p>
-						<a href="http://www.tommeagher.com/about.html">Email Tom</a> or ping me on <a href="http://www.twitter.com/ultracasual/">Twitter</a>
+						Even more questions? <a href="http://www.tommeagher.com/about.html">Email Tom</a> or ping me on <a href="http://www.twitter.com/ultracasual/">Twitter</a>
 					</p>
 				</section>
 
