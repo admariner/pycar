@@ -3,6 +3,7 @@
 * Scott Bradley, [@scott2b](https://www.twitter.com/scott2b)
 * Adriana Homolova [@naberacka](https://twitter.com/naberacka)
 * Chris Keller, [@chrislkeller](https://www.twitter.com/chrislkeller)
+* Melissa Lewis, [@iff_or](https://www.twitter.com/iff_or)
 * Tom Meagher, [@ultracasual](https://www.twitter.com/ultracasual)
 * Ryan Murphy, [@rdmurphy](https://www.twitter.com/rdmurphy)
 * Ryan Nagle, [@ryannagle](https://www.twitter.com/ryannagle)
