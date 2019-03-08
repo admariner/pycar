@@ -7,7 +7,7 @@ To begin with, we will import the [modules](http://docs.python.org/3/tutorial/mo
 ```Python
 import requests
 from bs4 import BeautifulSoup
-import CSV
+import csv
 ```
 
 [Requests](http://requests.readthedocs.org/en/latest/) is a module used to retrieve the pages we want to scrape from the Internet. It, like BeautifulSoup, is not part of Python's standard library and needs to be installed using [easy_install](http://pythonhosted.org/setuptools/easy_install.html) or [pip](http://www.pip-installer.org/en/latest/). [BeautifulSoup4](http://www.crummy.com/software/BeautifulSoup/) is a HTML and XML parser, it is what we will be using to step through the html on a webpage and grab the data. We need to access a specific object within the BeautifulSoup module which is why we use the ```from bs4 import BeautifulSoup``` code. Finally, [csv](http://docs.python.org/2/library/csv.html) is a module designed for working with CSVs - both reading and writing. We will be using it to write out the data once we parse it out of the html.
@@ -55,7 +55,7 @@ At this point we are going to stop and take a minute to prepare the file we will
 ```Python
 
 with open("movies.csv", "w", newline="") as CSVfile:
-	output = CSV.writer(csvfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
+	output = csv.writer(csvfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 ```
 There's a lot of new stuff here, so let's look at it one line at a time.
@@ -64,7 +64,7 @@ The `with` statement is a convenient way Python offers to handle opening and clo
 
 _NOTE: any code that writes to this file must be indented when using `with`. For this reason, the code in the Jupyter notebook won't use notation because it splits the code into several chunks. We're including this here because it's good practice for the future._
 
-Here we create and open a file named "movies.csv". The ```"w"``` tells Python that we want it to open the file in write mode. Other options are read ```"r"``` and append to a file ```"ab"```.
+Here we create and open a file named "movies.csv". The ```"w"``` tells Python that we want it to open the file in write mode. Other options are read ```"r"``` and append to a file ```"a"```.
 
 The `newline` keyword ensures that no extra newlines are added to the end of each row. Otherwise we can end up with an extra space after each row.
 
