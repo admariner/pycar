@@ -41,7 +41,7 @@ At the end of the day, we'll __[send you home with](takehome/README.md)__:
 
 * A [lightning dash](https://github.com/ireapps/pycar/tree/master/takehome/PyCAR_basics_takehome_notebook_complete.ipynb) through basic variables, types and functions
 * The [working, commented code](https://github.com/ireapps/pycar/tree/master/completed) for each project from our git repo
-* A walkthrough for setting up your machine at home with Python, version control and virtualenvs
+* A walkthrough for [setting up your machine at home with Python](https://github.com/thejqs/pycar/blob/master/takehome/Installing%20Python%20The%20IRE%20Way%E2%84%A2.pdf), version control and virtualenvs
 * Good libraries to explore with strong tutorials
 * A lifetime support guarantee [from us](CONTRIBUTORS.md) & [PythonJournos](https://groups.google.com/forum/#!forum/PythonJournos)
 
