@@ -8,12 +8,12 @@
 * [version control](http://www.tommeagher.com/blog/2013/02/learning-to-commit-to-version-control.html) with __[git](http://rogerdudler.github.io/git-guide/)__ and __[Github](https://help.github.com/articles/be-social)__
 
 ## Keep Practicing
-Try our "[PyCAR basics](https://github.com/ireapps/pycar/blob/master/takehome/PyCAR_basics_takehome_notebook_complete.ipynb)" iPython notebook to continue exploring data types and simple methods.
+Try our "[PyCAR basics](https://github.com/ireapps/pycar/blob/master/takehome/PyCAR_basics_takehome_notebook_complete.ipynb)" Jupyter notebook to continue exploring data types and simple methods.
 Tony DeBarros also taught a fantastic class at NICAR on [getting started with Python](https://github.com/anthonydb/python-get-started).
 
-Here's a great [cheatsheet](http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf) for basic python types and functions. And you should probably bookmark this fun and handy graphic of [common Python errors](http://i.imgur.com/WRuJV6r.png).
+Here's a great [cheatsheet](http://sleet.aos.wisc.edu/~gpetty/wp/wp-content/uploads/2011/10/Python_qr.pdf) for basic Python types and functions. And you should probably bookmark this fun and handy graphic of [common Python errors](http://i.imgur.com/WRuJV6r.png).
 It's worth your time to take a look at Tony DeBarros' [Python snippets](https://github.com/anthonydb/python-snippets), scripts for common tasks he's found useful.
-Have Unicode problems? Check out this [great video from Pycon 2014](https://www.youtube.com/watch?v=Mx70n1dL534).
+Have Unicode problems? Check out this [great video from PyCon 2014](https://www.youtube.com/watch?v=Mx70n1dL534).
 
 ## Good libraries to explore
 * __[csv](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)__, for working with the [best tabular data format](http://pymotw.com/2/csv/).
@@ -23,7 +23,7 @@ Have Unicode problems? Check out this [great video from Pycon 2014](https://www.
 * __mechanize__. [A tutorial](http://www.pythonforbeginners.com/mechanize/browsing-in-python-with-mechanize/) with its own [cheat sheet](http://www.pythonforbeginners.com/cheatsheet/python-mechanize-cheat-sheet)
 * __json__. [Work with json](http://pymotw.com/2/json/) like it's a dictionary.
 * __[SQLite3](http://zetcode.com/db/sqlitepythontutorial/)__. Use the easy, built-in SQLite database engine.
-* __[peewee](http://peewee.readthedocs.org/en/latest/peewee/quickstart.html)__, an orm that lets you do your SQL in Python.
+* __[peewee](http://peewee.readthedocs.org/en/latest/peewee/quickstart.html)__, an ORM that lets you do your SQL in Python.
 * __[python-twitter](https://github.com/bear/python-twitter)__ is good for interacting with the Twitter API.
 * __[Xlrd](http://www.python-excel.org/)__. Do your Excel in Python.
 * __[pandas](https://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)__, for data analysis. pandas' dataframe object is like a table.

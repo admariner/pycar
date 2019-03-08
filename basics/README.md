@@ -34,7 +34,7 @@ Before we get started, this is meant to be an overview of Python and show you so
 
 > While you are studying programming, I'm studying how to play guitar. I practice it every day for at least two hours a day. I play scales, chords, and arpeggios for an hour and then learn music theory, ear training, songs, and anything else I can. Some days I study guitar and music for eight hours because I feel like it and it's fun. To me repetitive practice is natural and just how to learn something. I know that to get good at anything you have to practice every day, even if I suck that day (which is often) or it's difficult. Keep trying and eventually it'll be easier and fun.
 
-Anyways, let's get started by looking at some key components of any programming language - variables, strings, numbers and comparisons. All of this is contained within the [official Python tutorial](https://docs.python.org/2/tutorial/introduction.html#) to the standard library. We'll consider Python lists as a containter that we can fill and we'll work toward using a couple core libraries - ```urllib``` and ```csv```  - to download a csv file and read the contents.
+Anyways, let's get started by looking at some key components of any programming language - variables, strings, numbers and comparisons. All of this is contained within the [official Python tutorial](https://docs.python.org/3.7/tutorial/introduction.html#) to the standard library. We'll consider Python lists as a container that we can fill and we'll work toward using a couple core libraries - ```urllib``` and ```csv```  - to download a CSV file and read the contents.
 
 **The files**
 
@@ -173,7 +173,7 @@ Anyways, let's get started by looking at some key components of any programming 
 
                 * You can add and remove content
 
-                    * You can add and remove items from specfic indexes
+                    * You can add and remove items from specific indexes
 
                 * Lists might contain items of different types, but usually the items all have the same type.
 
