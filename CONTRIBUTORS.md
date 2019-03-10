@@ -11,6 +11,7 @@
 * Alex Richards, [@alexrichards](https://www.twitter.com/alexrichards)
 * Roberto Rocha, [@robroc](https://twitter.com/robroc)
 * Eric Sagara, [@esagara](https://www.twitter.com/esagara)
+* Jacob Sanders [@thejqs](https://www.twitter.com/thejqs)
 * Sara Simon, [@sarambsimon](https://www.twitter.com/sarambsimon)
 * Kevin Schaul, [@kevinschaul](https://www.twitter.com/kevinschaul)
 * Aaron Williams, [@aboutaaron](https://www.twitter.com/aboutaaron)
