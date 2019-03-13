@@ -15,3 +15,4 @@
 * Sara Simon, [@sarambsimon](https://www.twitter.com/sarambsimon)
 * Kevin Schaul, [@kevinschaul](https://www.twitter.com/kevinschaul)
 * Aaron Williams, [@aboutaaron](https://www.twitter.com/aboutaaron)
+* Elaine Wong, [@el_the_nerd](https://www.twitter.com/elthenerd)
