@@ -1,15 +1,13 @@
 ```
-______      _____   ___  ______  __   _____
-| ___ \    /  __ \ / _ \ | ___ \/  | |  _  |
-| |_/ /   _| /  \// /_\ \| |_/ /`| | | |_| |
-|  __/ | | | |    |  _  ||    /  | | \____ |
-| |  | |_| | \__/\| | | || |\ \ _| |_.___/ /
-\_|   \__, |\____/\_| |_/\_| \_|\___/\____/ 
-       __/ |                                
-      |___/                                                                
+.-,--.      ,--.     ,.  .-,--.
+ '|__/ . . | `-'    / |   `|__/ ,-, ,-. ,-, ,-.
+ ,|    | | |   .   /~~|-. )| \   /  |/|  /  |/|
+ `'    `-| `--'  ,'   `-' `'  ` '-` `-' '-` `-'
+        /|
+       `-'
 ```
 
-## Python mini boot camp at [#NICAR19](https://www.ire.org/events-and-training/event/3433) in Newport Beach, California.
+## Python mini boot camp at [#NICAR20](https://www.ire.org/events-and-training/conferences/nicar-2020/) in New Orleans.
 
 In this two-day workshop, we'll use the Jupyter notebook to explore the Python programming language. At the end of the class, we'll give you all of the code from the exercises, along with several cheatsheets and tutorials, to take home with you, all from this code repository on Github.
 
