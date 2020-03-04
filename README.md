@@ -22,11 +22,12 @@ In this two-day workshop, we'll use the Jupyter notebook to explore the Python p
 #### [The Basics](https://github.com/ireapps/pycar/tree/master/basics)
 We'll introduce some key concepts of programming and Python types like strings, integers, lists, slicing and loops.
 
-#### [Project #1](https://github.com/ireapps/pycar/tree/master/project1)
-As with many data analyses, it all starts with a CSV. After a white board exercise, we'll start with a file of pseudocode, and we'll walk through writing the program in Python code, running each line in the Jupyter interpreter. We'll hold your hand through each step of the process.
+#### A [discussion on debugging](https://docs.google.com/presentation/d/e/2PACX-1vTCwzQnH0Ps8xmqnxGBYayCyas8-53qJyo-yjIy5qy4P2xUOA-kiAOQCNTiCzRBVX7TxeBabx1pvpBQ/pub?start=false&loop=false&delayms=3000) and [cheatsheet](https://github.com/ireapps/pycar/tree/master/debug/DebugginginPython.pdf)
+
 
 ### Day 2
-#### A [discussion on debugging](https://docs.google.com/presentation/d/e/2PACX-1vTCwzQnH0Ps8xmqnxGBYayCyas8-53qJyo-yjIy5qy4P2xUOA-kiAOQCNTiCzRBVX7TxeBabx1pvpBQ/pub?start=false&loop=false&delayms=3000) and [cheatsheet](https://github.com/ireapps/pycar/tree/master/debug/DebugginginPython.pdf)
+#### [Project #1](https://github.com/ireapps/pycar/tree/master/project1)
+As with many data analyses, it all starts with a CSV. After a white board exercise, we'll start with a file of pseudocode, and we'll walk through writing the program in Python code, running each line in the Jupyter interpreter. We'll hold your hand through each step of the process.
 
 #### [Project #2](https://github.com/ireapps/pycar/tree/master/project2)
 This section covers gathering data from the web in two common formats.
